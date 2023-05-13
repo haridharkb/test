@@ -1,1 +1,2 @@
-the course is done in udemy may14
+The course is done in udemy 
+git is an important topic which we need to know and learn!!
